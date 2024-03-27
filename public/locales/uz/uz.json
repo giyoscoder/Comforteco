@@ -1,0 +1,117 @@
+{
+    "navbar": {
+        "lan": "Uz",
+        "reviews": "Sharhlar",
+        "contact": "Kontaktlar",
+        "companies": "Kompaniyalar",
+        "baymak": "Baymak",
+        "help": "Yordam"
+    },
+    "showcase": {
+        "title": "Toshkentdagi kotyollarni professional ta'mirlash",
+        "about": "Kompaniyamiz turli marka va modeldagi kotyollarga xizmat ko'rsatish va ta'mirlashga ixtisoslashgan. Tez va samarali ta'mirlash uchun bizda barcha kerakli ehtiyot qismlar va butlovchi qismlar mavjud.",
+        "input_name": "Ism",
+        "input_phone": "Telefon raqami",
+        "button_submit": "Ariza qoldirish"
+    },
+    "superiority": {
+        "title": "Nega bizni tanlaydilar",
+        "about": "Bizning xizmat ko'rsatish markazimiz mijozlarimizning ehtiyojlarini qondirishga qaratilgan",
+        "quality": "Sifat",
+        "quality_text": "Bizning xizmat ko'rsatish markazimiz istalgan vaqtda qo'ng'iroqingizga javob beradi",
+        "checkout": "Tez chiqish",
+        "checkout_text": "Mutaxassislarning chaqiruv kunida ketishi",
+        "diagnostics": "Diagnostika",
+        "diagnostics_text": "Mutaxassislar tezda kotyol buzilishining sababini topadilar",
+        "repair": "Ta'mir",
+        "repair_text": "Arzon narxlarda yuqori sifatli ta'mirlash",
+        "button": "Masterni chaqirish"
+    },
+    "cooperation": {
+        "title": "Biz kotyollarning barcha markalari va modellari bilan ishlaymiz"
+    },
+    "services": {
+        "title": "Bizning xizmatlar",
+        "repair": "Kotyollarni ta'mir qilish",
+        "repair_text": "Devor va pol kotyollarini ta'mir qilish.",
+        "prevention": "Kotyollarning profilaktikasi",
+        "prevention_text": "Ikki konturli kotyollarning profilaktikasi",
+        "boiler": "Kotyollarga xizmat ko'rsatish",
+        "boiler_text": "Gaz va suv oqishini bartaraf etish va boshqaruv platasini ta'mirlash"
+    },
+    "catogeries": {
+        "title": "Ishonchli xizmat",
+        "about": "Biz barcha turdagi va markali kotyollarni eng qisqa vaqt ichida arzon narxlarda professional ta'mirlashni taklif etamiz. Toshkent shahridagi kotyollarni ta'mirlash xizmatimiz ishonchlilik va sifat kafolatidir. Biz isitish uydagi qulaylikning asosiy jihati ekanligini tushunamiz, shuning uchun biz sizning uskunangizga tezkor va professional xizmat ko'rsatishga intilamiz. Bizning yuqori malakali mutaxassislarimiz turli marka va modeldagi kotyollarni ta'mirlash bo'yicha katta tajribaga ega. Biz kotyolingizning uzoq muddatli ishlashini kafolatlash uchun faqat original ehtiyot qismlar va zamonaviy jihozlardan foydalanamiz. Biz sizning vaqtingiz va qulayligingizni qadrlaymiz, shuning uchun biz moslashuvchan xizmat ko'rsatish jadvalini, shuningdek, agar kerak bo'lsa, uyga tez tashrif buyurishni taklif qilamiz. Maqsadimiz shunchaki muammoni bartaraf etish emas, balki isitish uskunangizning barqaror va samarali ishlashini ta'minlashdir.Kotyolingizni ta'mirlashni professionallarga topshiring va ortiqcha ovoragarchilik va tashvishlarsiz xonadoningizdagi issiqlik va qulaylikdan bahramand bo'ling.",
+        "contour": "Ikki konturli kotyollarning ta'miri",
+        "contour_wall": "Devordagi kotyollarning ta'miri",
+        "contour_floor": "Polga o'rnatiladigan kotyollarning ta'miri",
+        "contour_prevention": "Kotyollarning profilaktikasi",
+        "contour_gas": "Kotyollarning profilaktikasi"
+    },
+    "contourService": {
+        "title": "Ishonchli xizmat",
+        "about": "Bizning mutaxassislar jamoasi sizning uskunangizga yuqori sifatli va ishonchli xizmat ko'rsatadi. Biz uyga tez tashrif buyurish, original ehtiyot qismlardan foydalanish va yuqori darajadagi mahoratni kafolatlaymiz. O'zingizning qulayligingizni xavf ostiga qo'ymang - professionallarga murojaat qiling va kotyolingizning ishonchli ishlashidan zavqlaning!",
+        "card_one": "Profilaktika",
+        "card_one_price": "400000 so'm dan",
+        "card_two": "Turbinani almashtirish",
+        "card_two_price": "850000 so'm dan",
+        "card_three": "Issiqlik almashtirgichni almashtirish",
+        "card_three_price": "1300000 so'm dan",
+        "card_four": "Suv bosimi sensorini almashtirish",
+        "card_four_price": "250000 so'm dan",
+        "card_five": "Uch tomonlama klapanni almashtirish",
+        "card_five_price": "450000 so'm dan",
+        "card_six": "Manostatni almashtirish",
+        "card_six_price": "380000 so'm dan",
+        "info": "So'rovni qoldirish orqali siz shaxsiy ma'lumotlarni qayta ishlashga rozilik bildirasiz",
+        "rule_one": "Isitish uskunasining noto'g'ri ishlashining umumiy sabablari va belgilari",
+        "rule_one_about": "Isitish uskunalari, har qanday uskuna kabi, muvaffaqiyatsiz bo'lishi mumkin.",
+        "rule_two": "Nosozliklar sabablari",
+        "rule_two_about": "Sovutish suyuqligining etarli emasligi: oqish, tiqilib qolish, tizimning bosimini yo'qotish.  Past bosim: sirkulyatsiya pompasi, havo cho'ntaklari bilan bog'liq muammolar. Filtrlar, quvurlar, radiatorlar tiqilib qolgan. Masshtab: issiqlik almashtirgichda shkala shakllanishi. Avtomatlashtirishning noto'g'ri ishlashi: termostat, sensorlar, boshqaruv tizimi. Noto'g'ri o'rnatish: tizimni o'rnatish paytida xatolar.  Past sifatli komponentlardan foydalanish: xavfsizlik va ishonchlilik talablariga javob bermaydigan arzon ehtiyot qismlar",
+        "rule_three": "Muammoning belgilari",
+        "rule_three_about": "Noto'g'ri isitish: Batareyalar sovuq yoki boshqacha yonadi. Shovqin va shovqin: isitish tizimidan begona tovushlar keladi.Haroratning pasayishi: xona sovuq bo'ladi.   Oqish: quvurlardan, radiatorlardan, qozondan suv oqadi.   Kondensatsiyaning ko'rinishi: quvurlar va radiatorlarda.   Kotyol yoqilmaydi: ateşleme, gaz ta'minoti, elektr ta'minoti bilan bog'liq muammolar.   Displeydagi xato: xato xabari. Nosozlikning birinchi belgilari paydo bo'lganda, darhol mutaxassis bilan bog'lanishingiz kerak. Isitish uskunasini o'zingiz ta'mirlashga urinmang, bu xavfli bo'lishi mumkin! Kotyolingizni professionallarga ishoning!“ServesKotlov.uz” servis markazi isitish uskunalarining uzluksiz ishlashini ta’minlashda sizning ishonchli yordamchingizdir."
+    },
+    "experience": {
+        "pre_title": "Kompaniya haqida",
+        "title": "Biz siz uchun 15 yildan beri ishlaymiz",
+        "about": "Kompaniyamiz Toshkent shahridagi kotyollariga xizmat ko'rsatish sohasida ishonchli hamkor hisoblanadi. 15 yildan ortiq tajribaga ega bo'lgan holda, biz yuqori sifatli xizmat ko'rsatish va 10 dan ortiq mutaxassislarimizning professionalligi tufayli bozor yetakchisiga aylanganimizdan faxrlanamiz. Biz sizning vaqtingiz va qulayligingizni qadrlaymiz, shuning uchun biz malakali jamoamizning Toshkentning istalgan nuqtasiga tezda jo'nab ketishini ta'minlaymiz. Bizning moslashuvchan rejalashtirish tizimimiz bizga sizga mos keladigan vaqtda mavjud bo'lish imkonini beradi. Biz har bir mijozga alohida e'tibor qaratamiz, ularning kutganlaridan oshib ketishga va ularning isitish ehtiyojlariga uzoq muddatli yechimlarni taqdim etishga intilamiz. Bizning maqsadimiz nafaqat xizmatlarni taqdim etish, balki mijozlarimiz bilan xizmatlarimizning sifati va ishonchliligiga asoslangan ishonchli munosabatlarni o'rnatishdir.",
+        "phone": "Telefon raqami: +998951575050",
+        "info_title": "Sifatga ishonch: kotyollarni ta'mirlash bo'yicha bir yillik kafolat",
+        "text_text": "ServesKotlov.uz - isitish masalalari bo'yicha ishonchli yordamchingiz. Biz nafaqat kotyollarini ta'mirlaymiz, balki ularga ikkinchi hayot beramiz, uni muammosiz va bardoshli qilamiz. Nega biz o'z ishimizga shunchalik ishonamiz? – Hunarmandlarimiz o‘z sohasining haqiqiy mutaxassislari. Ularning har biri ko'p yillik tajribaga va yuzlab muvaffaqiyatli ta'mirlangan qozonlarga ega. - Biz sizning vaqtingizni qadrlaymiz. Har qanday ariza imkon qadar tezroq ko'rib chiqiladi. Shaffoflik va halollik bizning tamoyillarimizdir. Siz har doim ta'mirlashning aniq narxini ular boshlanishidan oldin bilib olishingiz mumkin.  Samaradorlik bizning ishonchimizdir. Mutaxassislar imkon qadar tezroq manzilga boradilar.  - To'g'ri tashxis muvaffaqiyatli ta'mirlashning kalitidir. Biz faqat professional uskunalardan foydalanamiz.  - Asl ehtiyot qismlar – mukammal ishlash kafolati. Biz shubhali analoglardan foydalanmaymiz. Kotyollarni professionallarga ishonib topshiring! ServesKotlov.uz sizning iliqlik va qulaylik olamidagi sodiq hamkoringizdir."
+    },
+    "slide_one": {
+        "comment": "Men kotyol xonasini ta'mirlagan va santexnik xizmatlarini ko'rsatgan kompaniya haqida hayajonli sharhimni baham ko'rmoqchiman. Bu kompaniya mutlaqo ajoyib!",
+        "user": "Guzal Shukurova"
+    },
+    "slide_two": {
+        "comment": "Men kotyol xonasini ta'mirlagan va santexnik xizmatlarini ko'rsatgan kompaniya haqida hayajonli sharhimni baham ko'rmoqchiman. Bu kompaniya mutlaqo ajoyib!",
+        "user": "Guzal Shukurova"
+    },
+    "slide_three": {
+        "comment": "Men kotyol xonasini ta'mirlagan va santexnik xizmatlarini ko'rsatgan kompaniya haqida hayajonli sharhimni baham ko'rmoqchiman. Bu kompaniya mutlaqo ajoyib!",
+        "user": "Guzal Shukurova"
+    },
+    "slide_four": {
+        "comment": "Men kotyol xonasini ta'mirlagan va santexnik xizmatlarini ko'rsatgan kompaniya haqida hayajonli sharhimni baham ko'rmoqchiman. Bu kompaniya mutlaqo ajoyib!",
+        "user": "Guzal Shukurova"
+    },
+    "contact": {
+        "title": "So'rov qoldiring",
+        "about": "Ta'mir uchun masterni chaqirish qiymati va veb saytdan buyurtma berganda kotyollar va xizmat olishda qiymati - 10% qo'shish qiymati bilan. Master sizga 10 daqiqa ichida qayta aloqa qiladi! Masterni chaqirish qiymati 90.000 UZS",
+        "input_placeholder": "Telefon raqami",
+        "button_text": "Ariza yuborish",
+        "description": "So'rovni qoldirib, siz shaxsiy ma'lumotlarni qayta ishlashga va hisobni bron qilish shartlariga rozilik bildirasiz",
+        "phone": "Telefon",
+        "telegram": "Telegram",
+        "instagram": "Instagram",
+        "location": "Manzil"
+    },
+    "footer": {
+        "lan": "Ru",
+        "reviews": "Fikrlar",
+        "contact": "Kontaktlar",
+        "companies": "Kompaniyalar",
+        "baymak": "Baymak",
+        "help": "Yordam"
+    }
+}

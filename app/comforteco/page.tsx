@@ -30,21 +30,23 @@ const DATA_CATOGERIES = [
     { text: 'comforteco_contour_prevention', data: [fridge3, fridge3, fridge3] },
     { text: 'comforteco_contour_gas', data: [fridge4, fridge4, fridge4] },
 ]
-const Main = () => {
 
+const Comforteco = () => {
     return (
-        <section>
-            <Showcase title={'comfortecoTitle'} about={'comfortecoAbout'} img={comforteco_showcase} />
-            <Superiority img={comforteco_superiority} />
-            <ComfortecoCooperation />
-            <Services data={DATA_SERVICES} />
-            <Catogeries about='comforteco_about' data={DATA_CATOGERIES} />
-            <Servers />
-            <Experience />
-            <Comments />
-            <MainCallButton />
-        </section>
+        <div>
+            <section>
+                <Showcase title={'comfortecoTitle'} about={'comfortecoAbout'} img={comforteco_showcase} />
+                <Superiority img={comforteco_superiority} />
+                <ComfortecoCooperation />
+                <Services data={DATA_SERVICES} />
+                <Catogeries about='comforteco_about' data={DATA_CATOGERIES} />
+                <Servers />
+                <Experience />
+                <Comments />
+                <MainCallButton />
+            </section>
+        </div>
     )
 }
 
-export default Main
+export default Comforteco

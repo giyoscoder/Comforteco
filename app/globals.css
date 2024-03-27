@@ -2,32 +2,67 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+@layer base {
+    input {
+        @apply md:max-w-[360px] w-full py-3 px-[14px] border border-[#D0D5DD] rounded-lg placeholder:text-base placeholder:font-normal bg-white outline-none
+    }
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+    ::selection {
+        display: none;
+    }
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+
+
+
+@font-face {
+    font-family: 'Jura';
+    src: url('../public/Assets/Fonts/Jura-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: 'Russo';
+    src: url('../public/Assets/Fonts/RussoOne-Regular.ttf');
+}
+
+.font-jura {
+    font-family: 'Jura';
+}
+
+.font-russo {
+    font-family: 'Russo';
+}
+
+.container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+@media only screen and (min-width: 768px) {
+    .container {
+        padding: 0 32px;
+    }
+}
+
+/* Swiper style */
+.swiper-pagination-bullet {
+    background-color: #101828 !important;
+}
+
+@media only screen and (min-width: 768px) {
+    .swiper-pagination-bullet {
+        display: none !important;
+    }
+}
+
+.cooperation_slider>div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 32px;
 }
