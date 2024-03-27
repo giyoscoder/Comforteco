@@ -84,7 +84,6 @@ const Navbar = () => {
                             <li><Scrollink to='about' spy={true} smooth={true} offset={-100}>{t('companies')}</Scrollink></li>
                             {locationPath && <li><Scrollink to='comments' spy={true} smooth={true} offset={-150}>{t('help')}</Scrollink></li>}
                             <li><Scrollink to='contact' spy={true} smooth={true} offset={-100}>{t('contact')}</Scrollink></li>
-
                         </ul>
                         {brands && <div onClick={() => setBrands(false)} className='bg-transparent h-full w-full fixed top-0 left-0' />}
                     </div>

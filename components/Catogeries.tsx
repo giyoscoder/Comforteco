@@ -24,7 +24,7 @@ const Catogeries = ({ about, data }: { data: any, about?: any }) => {
         <section className='my-16 md:my-24'>
             <div className="container">
                 <h2 className='font-russo text-[28px] md:text-5xl font-normal leading-[38px] md:leading-[44px] -tracking-[0.96px]'>{t('title')}</h2>
-                <p className='font-jura text-lightColor text-lg md:text-xl font-normal leading-[28px] md:leading-[30px]  mt-4 md:mt-5'>{t(about)}</p>
+                <p className='font-jura text-lightColor text-lg md:text-xl font-normal leading-[28px] md:leading-[30px]  mt-4 md:mt-5'>{t('about')}</p>
 
                 <div className='grid grid-cols-1 md:grid-cols-6 gap-6 md:gap-8 mt-12 md:mt-16'>
 
@@ -38,7 +38,7 @@ const Catogeries = ({ about, data }: { data: any, about?: any }) => {
                             <div onClick={() => sliderOne.current.slidePrev()} className='absolute top-1/2 left-3  z-10 -translate-y-1/2 text-mainColor p-2 bg-white/50 rounded-full cursor-pointer'><IoIosArrowBack size={20} /></div>
                             <div onClick={() => sliderOne.current.slideNext()} className='absolute top-1/2 right-3  z-10 -translate-y-1/2 text-mainColor p-2 bg-white/50 rounded-full cursor-pointer'><IoIosArrowForward size={20} /></div>
                         </Swiper>
-                        <p className='font-jura text-lg md:text-xl text-darkColor font-bold mt-[30px] md:mt-6 '>{t(data[0].text)}</p>
+                        <p className='font-jura text-lg md:text-xl text-darkColor font-bold mt-[30px] md:mt-6 '>{t(`${data[0].text}`)}</p>
                     </div>
 
                     <div className='md:col-span-3 p-5 md:p-6 rounded-xl bg-[#F9FAFB]'>
